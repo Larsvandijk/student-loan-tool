@@ -1,1 +1,1 @@
-Description
+This project focusses on developing a tool for students to make better decisions about their student loans. It will explore the use of data visualization techniques made in d3.js to support the decision-making process of students. 
